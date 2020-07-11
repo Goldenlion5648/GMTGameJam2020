@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scripts\cameraPositioning.cs" />
     <Compile Include="Assets\scripts\mouseMovement.cs" />
     <Compile Include="Assets\scripts\playerMovement.cs" />
     <Reference Include="UnityEngine">

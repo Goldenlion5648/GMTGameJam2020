@@ -7,8 +7,8 @@ public class mouseMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log(Screen.width);
-        Debug.Log(Screen.height);
+        //Debug.Log(Screen.width);
+        //Debug.Log(Screen.height);
 
 
     }
@@ -17,7 +17,7 @@ public class mouseMovement : MonoBehaviour
     void Update()
     {
         //Debug.Log(Input.mousePosition);
-        
+
 
     }
 }
